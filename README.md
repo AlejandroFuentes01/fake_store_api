@@ -64,7 +64,7 @@ cd bun-fakestore-app
 Se utiliza la Fake Store API de Platzi, que expone recursos como:
 	•	🛍️ /products – Lista de productos
 
-📚 Documentación oficial: https://fakeapi.platzi.com/
+📚 Documentación oficial: https://fakeapi.platzi.com/en/about/introduction/
 
 ⸻
 
